@@ -1,2 +1,3 @@
 # FizzBuzz
-FizzBuzz program using JS ..
+FizzBuzz program using JS ...
+.
